@@ -1,7 +1,7 @@
 # To the moon BOT
 
 
-Register Here : [Popp Planet](https://t.me/PoPPtothemoon_bot/moon?startapp=350874250)
+Register Here : [To the moon](https://t.me/PoPPtothemoon_bot/moon?startapp=350874250)
 
 ## Features
 
