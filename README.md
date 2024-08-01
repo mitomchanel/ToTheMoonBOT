@@ -17,5 +17,5 @@ Register Here : [Popp Planet](https://t.me/PoPPtothemoon_bot/moon?startapp=35087
 1. Install Module (pip install requests colorama)
 Application > session storage > __telegram__initParams
 2. Copy value tgwbappdata , Paste di query.txt
-3. python popp.py
+3. python mitom.py
 
